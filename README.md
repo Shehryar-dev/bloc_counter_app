@@ -201,7 +201,3 @@ To run the app, use:
 flutter run
 ```
 
----
-
-## Download
-You can download the source code from [GitHub](#) (Replace `#` with your repository link).
